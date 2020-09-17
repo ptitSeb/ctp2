@@ -1,6 +1,9 @@
 
 ![ctp2 build status](https://api.travis-ci.org/ptitSeb/ctp2.png "ctp2 build status")
 
+## Deprecated
+Note that this repo is deprecated. You'll have a better chance to get this running with this repo: https://github.com/civctp2/civctp2 that integrate all the change from here plus many more.
+
 ## About
 
 This is the Apolyton version of *Call to Power II* source code based on the released source code of Call to Power II, without the patch. It has been stripped of comments, but is otherwise complete as far as Activision code goes. It was originally built using Microsoft Visual Studio 6.0. In the mean time the Apolyton code was modified so that it works with the .NET compiler as well.
